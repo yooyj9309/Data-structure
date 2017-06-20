@@ -1,0 +1,17 @@
+Black
+Gray
+Maroon
+Purple
+Cyan
+Yellow
+Navy
+Blue
+Green
+Grene
+Genre
+Brown
+White
+Orange
+Red
+Beige
+Pink
